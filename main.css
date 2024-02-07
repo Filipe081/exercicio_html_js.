@@ -112,6 +112,7 @@ form button {
 form textarea {
     resize: none;
     height: 180px;
+    box-sizing: content-box;
 }
 
 section h3 {
